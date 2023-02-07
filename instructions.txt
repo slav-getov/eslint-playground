@@ -1,0 +1,9 @@
+npm install eslint --save-dev - to install as dev devDependency
+
+npx eslint ./intro.js - to find the file. Additionally it will enforce rules on its own without running the command
+
+rules so far:
+
+'eqeqeq' - for strict equality
+
+'semi' - all lines must end will semi colons 

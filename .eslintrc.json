@@ -1,6 +1,8 @@
 {
     "rules":{
-        "semi":"warn"
+        "semi":"warn",
+        "eqeqeq": "warn",
+        "func-style": ["error", "expression"]
     },
     "parserOptions": {
         "ecmaVersion": "latest"
