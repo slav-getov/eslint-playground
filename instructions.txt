@@ -7,3 +7,7 @@ rules so far:
 'eqeqeq' - for strict equality
 
 'semi' - all lines must end will semi colons 
+
+'func-style' - only func expressions are permitted now
+
+eslint script made to scan within src
